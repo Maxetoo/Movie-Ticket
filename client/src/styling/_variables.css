@@ -1,0 +1,10 @@
+:root {
+    --primary: #30313e;
+    --input: #292b37;
+    --highlight: #292b37;
+    --primary-font: #fafafa;
+    --secondary-font: #88888e;
+    --btn: #d47739;
+    --stroke-color: #88888e;
+    --error-color: #e74c3c;
+}
